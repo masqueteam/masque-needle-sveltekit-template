@@ -1,1 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@100..900&display=swap');
 @import 'tailwindcss';
+
+@theme {
+	--default-font-family: 'Noto Sans Thai';
+}
+
+html {
+  height: -webkit-fill-available;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  background-color: black;
+}
