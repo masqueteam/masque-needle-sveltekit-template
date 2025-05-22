@@ -1,1 +1,1 @@
-<button class="absolute p-4 bg-gray-50 rounded-full shadow-md text-2xl">สวัสดี Hello</button>
+<button class="absolute rounded-full bg-gray-50 p-4 text-2xl shadow-md">สวัสดี Hello</button>

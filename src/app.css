@@ -2,7 +2,7 @@
 @import 'tailwindcss';
 
 @theme {
-	--default-font-family: 'Noto Sans Thai';
+  --default-font-family: 'Noto Sans Thai';
 }
 
 html {
